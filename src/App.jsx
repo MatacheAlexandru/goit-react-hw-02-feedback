@@ -3,7 +3,7 @@ import FeedbackOptions from "./components/FeedbackOptions";
 import Statistics from "./components/Statistics";
 import Notification from "./components/Notification";
 import Section from "./components/Section";
-import styles from "./styles.module.css";
+import styles from "./App.module.css";
 
 const App = () => {
   const [feedback, setFeedback] = useState({
