@@ -1,0 +1,24 @@
+.container {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+button {
+  margin-right: 2vw;
+  padding: 1vw 2vw;
+  font-size: 1.6vw;
+  cursor: pointer;
+}
+
+h2 {
+  margin-bottom: 1vw;
+}
+
+p {
+  margin: 0.5vw 0;
+}
